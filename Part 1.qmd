@@ -1,0 +1,43 @@
+---
+title: "Google Shopping Ads Certification Part 1"
+author: "Wenting Jiang"
+date: July16,2026
+format: html
+embed-resources: true
+---
+
+# Overview
+
+This report summarizes what I learned from the Google Shopping Ads Certification Part 1 modules and explains how these concepts can be applied to the CPP Farm Store project.
+
+# Proof of Module Completion
+
+Below are screenshots showing that I completed all three required Skillshop modules.
+
+### Grow Your Retail Business with Google
+
+![](Grow%20Your%20Retail.png)
+
+### Know How Shopping Ads Work
+
+![](Know%20How%20.png)
+
+### Identify Key Shopping Ad Requirements
+
+![](Identify%20Key.png)
+
+# CPP Farm Store Application Reflection
+
+By studying the Google Shopping Ads Certification Part 1 modules, I have learned more about Google Shopping Ads, how they benefit online retail stores and help people discover products online. One of the things that I realized is that Google Shopping Ads differ from the normal text ads in the sense that the product information, including its title, photo, and price is displayed to the users even before they land on a particular website. This happens because Google creates product listing ads by gathering the product details that are submitted via the Product Feed at the Google Merchant Center. There are two types of shopping campaigns – Performance Max and Standard Shopping campaigns that can be used based on the retailer’s advertising objectives.
+
+For CPP Farm Store, Google Shopping Ads could be an effective way to increase product visibility and attract new customers. Many students, faculty, staff, alumni, and local community members search online before deciding where to shop groceries. By displaying products directly in Google Search, Google Shopping, YouTube, Maps, and other Google platforms, CPP Farm Store could reach customers who are already interested in fresh produce, local gifts, and seasonal products. Shopping Ads could also increase website traffic, improve brand awareness, and encourage more online purchases by allowing customers to compare products before visiting the store or website.
+
+The consumer segment that will be best served by the enhanced online product discovery process is that of people who seek easy local shopping opportunities. Students and employees are known to look up online for products before visiting the stores. In case CPP Farm Store offers all the product information on Google Shopping Ads, then the consumers will get to see the product image, pricing, and availability without wasting any additional time in looking for it.
+
+Before launching Shopping Ads, CPP Farm Store must prepare a complete Product Feed in Google Merchant Center. Each product should include an accurate title, detailed description, high-quality images, correct pricing, product availability, and appropriate categories. The website must also satisfy Google's Landing Page Quality Requirements, including secure HTTPS checkout, clear contact information, an easy-to-find return and refund policy, accessible landing pages, and a checkout process that works properly. These requirements help create a trustworthy shopping experience while ensuring that products remain eligible for Shopping Ads.
+
+There are also several challenges that CPP Farm Store should consider. Product information must be updated regularly to keep prices and inventory accurate. Failure to maintain product data or comply with Google's Shopping Ads policies could result in Item Disapproval, preventing specific products from appearing in Shopping Ads. Repeated policy violations could even lead to Account Suspension, stopping all Shopping Ads from running. Therefore, monitoring Merchant Center Diagnostics, correcting feed issues, and responding quickly to Google's notifications are essential for maintaining a successful advertising campaign.
+
+In addition, as a group, we can directly utilize our acquired knowledge to better our deliverables such as Shopify Mini-Store, Product Feed, and Retail Media Setup. For example, we can enhance our product titles, descriptions, and imagery, sort products based on their relevant categories, and make sure that our Shopify store has a secure checkout, contact details, and return policy, all according to Google’s standards. Moreover, we can create a Product Feed for Google Merchant Center and develop our retail media strategy using Shopping Ads and Performance Max campaigns. Overall, these modules have given us practical knowledge which will enable our team to create a better Shopify store and digital marketing strategy for CPP Farm Store.
+
+# 
