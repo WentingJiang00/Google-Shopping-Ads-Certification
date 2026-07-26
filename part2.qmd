@@ -1,0 +1,50 @@
+---
+title: "Google Shopping Ads Certification Part 2"
+subtitle: "Retail Strategy, Campaign Types & Performance Max"
+author: "Wenting Jiang"
+date: "July24,2026"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    theme: flatly
+    code-fold: show
+    embed-resources: true
+---
+
+# CPP Farm Store Application Reflection
+
+## Google Skillshop Module Completion
+
+![](1.png)
+
+**Module 1** – Launch Your Retail Strategy
+
+![](2.png)
+
+**Module 2**- Identify the Right Shopping Campaign Type 
+
+![](3.png) 
+
+**Module 3** – Unlock the Power of Performance Max
+
+## Strategic Objectives and Product Selection
+
+After completing the Google Skillshop modules, I gained a better understanding of how retailers choose campaign objectives, select appropriate Shopping campaign types, and use Performance Max to reach customers across multiple Google channels. For CPP Farm Store, I believe the most appropriate campaign objective is to support omnichannel sales by increasing both online sales and in-store visits. Since the Farm Store operates both a physical store and an online Shopify store, the marketing strategy should encourage customers to shop through the channel that best fits their needs while creating a consistent shopping experience across both online and offline platforms.
+
+The products promoted in the campaign should be divided into two categories. Products with higher profit margins, longer shelf lives, and easy shipping—especially CPP Farm Store's private-label products, such as spreads, jams, sauces, pickled vegetables, honey, and seasonings, as well as Cal Poly Pomona souvenirs—should be prioritized for online promotion. In contrast, fresh fruits and vegetables are highly perishable and are better promoted through local, limited-time offers that encourage nearby customers to visit the Farm Store before the products spoil.
+
+## Campaign Strategy and Channel Integration
+
+Based on what I learned from the Skillshop modules, I believe that combines Performance Max and Standard Shopping campaigns would be the best strategy for CPP Farm Store. Performance Max is ideal for promoting CPP Farm Store's private-label products, such as spreads, jams, sauces, pickled vegetables, honey, seasonings, and Cal Poly Pomona souvenirs. These products have longer shelf lives, are easy to ship, and can reach customers outside the local area. Performance Max can automatically optimize bidding and ad placements across Google Search, Shopping, YouTube, Display, Gmail, and Maps, helping improve campaign performance and maximize return on ad spend.
+
+At the same time, Standard Shopping campaigns are more suitable for fresh fruits and vegetables because they provide greater control over bidding and promotions. Since fresh produce is seasonal and perishable, local promotions and location-based targeting can encourage nearby customers to visit the Farm Store before the products spoil. By combining both campaign types, CPP Farm Store can take advantage of automation while maintaining flexibility, creating a stronger omnichannel marketing strategy that supports both online sales and in-store visits.
+
+## Campaign Performance and Project Implementation
+
+To measure the success of the campaign, CPP Farm Store should track both online and in-store performance. Important KPIs include Return on Ad Spend (ROAS), Click-Through Rate (CTR), Conversion Rate, Cost Per Acquisition (CPA), website traffic, and Store Visits. These metrics can help show if the campaign is reaching the right customers, increasing sales, bringing more people to the Farm Store, and using the advertising budget effectively. By checking these results regularly, the team can see which campaigns and products work best and make improvements when needed.
+
+We can also use what we learned in our group project. In the Campaign Plan, we can set clear campaign goals, choose which products to promote, and decide how to use the budget. In the Creative Brief, we can prepare good product photos and simple, attractive advertising messages for different products. Finally, in the Dashboard, we can use GA4 and Shopify Analytics to track campaign performance and monitor important KPIs. This will help our team understand the results and improve future marketing campaigns.
+
+Overall, the Skillshop modules helped me better understand how Google Shopping Ads can support an omnichannel retail business. I believe these strategies can help CPP Farm Store improve both online and in-store performance.
