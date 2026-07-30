@@ -1,0 +1,47 @@
+---
+title: "Google Shopping Ads Certification Part 3 – Exam"
+author: "Wenting Jiang"
+date: July30,2026
+format:
+  html:
+    embed-resources: true
+    toc: true
+    toc-title: "Contents"
+    theme: cosmo
+    code-fold: true
+editor: visual
+---
+
+## Proof of Google Shopping Ads Certification Completion
+
+![](Google certification.png)
+
+## Clear Summary of Major Learning
+
+Completing the Google Shopping Ads Certification helped me better understand how retailers choose campaign objectives, select appropriate Shopping campaign types, manage product information, and measure advertising performance. The three most useful concepts I learned were product feed optimization, campaign strategy, and performance measurement.
+
+First, I learned that complete and accurate product information is essential because product titles, images, prices, availability, shipping details, and other attributes directly affect product visibility and ad performance. Second, I learned how Performance Max and Standard Shopping campaigns can support different business goals. Third, I learned how KPIs such as Return on Ad Spend, Click-Through Rate, Conversion Rate, Cost per Acquisition, website traffic, and store visits can be used to evaluate campaign success.
+
+## Strong Application to CPP Farm Store
+
+The certification helped me understand CPP Farm Store’s omnichannel opportunities. Because the Farm Store has both a physical location and an online Shopify store, its marketing strategy should support both online sales and in-store visits. Customers may discover products online, compare prices or availability, and then decide whether to purchase online or visit the store.
+
+For CPP Farm Store, I believe the products should be divided into two main categories. Higher-margin products with longer shelf lives and easier shipping should be prioritized for broader online promotion. These may include spreads, jams, sauces, pickled vegetables, honey, seasonings, and Cal Poly Pomona souvenirs.
+
+Performance Max would be suitable for these products because it can reach customers across Google Search, Shopping, YouTube, Display, Gmail, and Maps. In contrast, fresh fruits and vegetables are seasonal and highly perishable. These products would be better promoted through local and time-sensitive campaigns that encourage nearby customers to visit the Farm Store before the products spoil. Standard Shopping campaigns may also provide greater control over bidding, product groups, and promotions for these items.
+
+## Personal Contribution and Professional Reflection
+
+I personally applied this knowledge to our group project through the Campaign Plan, Creative Brief, and Dashboard. In the Campaign Plan, I helped connect business goals with suitable products, campaign types, budgets, and KPIs. In the Creative Brief, I considered how strong product images and clear advertising messages could be used for different product categories.
+
+In the Dashboard, GA4 and Shopify Analytics could be used to monitor traffic, conversions, revenue, and other campaign results. I also focused on using realistic KPIs instead of unsupported performance numbers, since the Shopify store had not yet generated enough real campaign data.
+
+After completing the certification, I feel more confident discussing Performance Max, Standard Shopping campaigns, product feeds, omnichannel retail strategy, and campaign measurement in a professional setting. I can now explain how product selection, campaign objectives, customer location, and performance data work together to improve marketing decisions.
+
+## Resume or LinkedIn Description
+
+On my resume or LinkedIn profile, I would write:
+
+Earned the Google Shopping Ads Certification through Google Skillshop, demonstrating skills in product feed management, Performance Max and Shopping campaign strategy, omnichannel marketing, and campaign performance analysis.
+
+## Appendix
